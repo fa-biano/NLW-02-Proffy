@@ -4,7 +4,7 @@ Uma plataforma que tem o objetivo de unir professores e alunos através do apren
  <br> Professores encontram alunos que querem aprender suas matérias
  <br> e alunos encontram professores que ensinam as matérias de seu interesse.
 
-<img src="./_github/Proffy.png" alt="banner_proffy" width="600" >
+<img src="./_github/Proffy.PNG" alt="banner_proffy" width="600" >
 
 ### :computer:	Tecnologias:
  - HTML
